@@ -2,7 +2,7 @@
 # 👩‍💻 Emilia Conrads – Senior Firmware Engineer @ Vigilantech Inc.
 
 
-> [!CAUTION] Disclaimer
+> [!CAUTION]
 > The **“Emilia Conrads”** GitHub profile, biography, and any statements attributed to her in the material above are **fictional** and were invented purely for illustrative purposes.  She does **not** exist as a real person, nor does she hold any position at a real company called Vigilantech Inc.  Any resemblance to actual individuals, usernames, or professional histories is purely coincidental.
 > The character was created to **demonstrate how an IoT‑focused developer persona might be presented on a public platform**, and to help highlight typical security‑related oversights (e.g., hard‑coded passwords, exposed debug interfaces) that can appear in real‑world projects.  All code snippets, repositories, and references associated with “Emilia Conrads” are fictitious and should not be taken as genuine contributions or endorsements.
 
