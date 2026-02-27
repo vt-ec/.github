@@ -1,12 +1,10 @@
 
 # 👩‍💻 Emilia Conrads – Senior Firmware Engineer @ Vigilantech Inc.
 
-[![GitHub followers](https://img.shields.io/github/followers/emilia-conrads?label=Followers&style=social)](https://github.com/vt-ec)
-[![GitHub stars](https://img.shields.io/github/stars/emilia-conrads?label=Stars&style=social)](https://github.com/vt-ec?tab=stars)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emilia%20Conrads-0A66C2?logo=linkedin)](https://www.linkedin.com/in/emilia-conrads)
-[![Twitter](https://img.shields.io/twitter/follow/EmiliaConrads?style=social)](https://twitter.com/EmiliaConrads)
 
----
+> [!CAUTION] Disclaimer
+> The **“Emilia Conrads”** GitHub profile, biography, and any statements attributed to her in the material above are **fictional** and were invented purely for illustrative purposes.  She does **not** exist as a real person, nor does she hold any position at a real company called Vigilantech Inc.  Any resemblance to actual individuals, usernames, or professional histories is purely coincidental.
+> The character was created to **demonstrate how an IoT‑focused developer persona might be presented on a public platform**, and to help highlight typical security‑related oversights (e.g., hard‑coded passwords, exposed debug interfaces) that can appear in real‑world projects.  All code snippets, repositories, and references associated with “Emilia Conrads” are fictitious and should not be taken as genuine contributions or endorsements.
 
 ## 🗺️ About Me
 
